@@ -6,6 +6,7 @@ public class EmailInstitucional {
     public EmailInstitucional (String usuario){
     this.usuario = usuario;
     }
+
     public String getEmail(){
     return usuario;
     }
